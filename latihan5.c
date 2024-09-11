@@ -1,5 +1,4 @@
 #include <stdio.h>
-#define phi 3.14
 
 void tambah(float *a, float *b, float *hasilkan){
     *hasilkan = *a + *b;
